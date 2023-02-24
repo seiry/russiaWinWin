@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import styled from 'styled-components'
+import { useCallback, useEffect, useRef, useState } from 'react'
 const Main = styled.main`
     .device {
         overflow: hidden;
@@ -43,7 +44,70 @@ const Main = styled.main`
         }
     }
 `
+const startDate = new Date('2022-02-24T11:00:00') //+5h
+
 export default function Home() {
+    const [timeStr, setTimeStr] = useState('一小时22分钟')
+    const timerRef = useRef<number>(0)
+
+    //by chatgpt
+    const updateTimer = useCallback(() => {
+        // Do some work here
+        const endDate = new Date()
+        // 输入目标日期，即 2022-02-24 11:00:00
+
+        // 计算时间差，单位为毫秒
+        const timeDiff = endDate.getTime() - startDate.getTime()
+
+        // 计算年、月、日、小时、分钟和秒数
+        let yearsDiff = Math.floor(timeDiff / (1000 * 60 * 60 * 24 * 365))
+        let monthsDiff = Math.floor(
+            (timeDiff / (1000 * 60 * 60 * 24 * 30)) % 12
+        )
+        let daysDiff = Math.floor((timeDiff / (1000 * 60 * 60 * 24)) % 30)
+        let hoursDiff = Math.floor((timeDiff / (1000 * 60 * 60)) % 24)
+        let minutesDiff = Math.floor((timeDiff / (1000 * 60)) % 60)
+        let secondsDiff = Math.floor((timeDiff / 1000) % 60)
+        let millisecondsDiff = Math.floor(timeDiff % 1000)
+
+        // 格式化结果
+        let result = ''
+        if (yearsDiff > 0) {
+            result += yearsDiff + '年'
+        }
+        if (monthsDiff > 0) {
+            result += monthsDiff + '月'
+        }
+        if (daysDiff > 0) {
+            result += daysDiff + '天'
+        }
+        if (hoursDiff > 0) {
+            result += hoursDiff + '小时'
+        }
+        if (minutesDiff > 0) {
+            result += minutesDiff + '分'
+        }
+        if (secondsDiff > 0) {
+            result += secondsDiff + '秒'
+        }
+        if (millisecondsDiff > 0) {
+            result += millisecondsDiff + '毫秒'
+        }
+        setTimeStr(result)
+        // Request another animation frame
+        timerRef.current = requestAnimationFrame(updateTimer)
+    }, [])
+    useEffect(() => {
+        //frame
+        timerRef.current = requestAnimationFrame(updateTimer)
+        return () => {
+            if (timerRef.current) {
+                cancelAnimationFrame(timerRef.current)
+            }
+        }
+        // eslint-disable-next-line react-hooks/exhaustive-deps
+    }, [])
+
     return (
         <Main>
             <Head>
@@ -77,7 +141,7 @@ export default function Home() {
                                 className="meme"
                             />
                             <p>
-                                一小时22分钟，俄军已经拿下
+                                {timeStr}，俄军已经拿下
                                 <span className="blue">基辅</span>，
                                 <span className="blue">普京</span>
                                 帝完全没有把美帝和西方世界当回事啊！
