@@ -4,6 +4,7 @@ const Main = styled.main`
     color: red;
     .device {
         overflow: hidden;
+        margin: auto;
     }
     article {
         overflow: hidden;
@@ -22,7 +23,7 @@ export default function Home() {
             <Head>
                 <title>Win!</title>
             </Head>
-            <div className="device device-iphone-14-pro">
+            <div className="device device-iphone-14-pro ">
                 <div className="device-frame">
                     <article>
                         <img src="/meme.JPG" className="meme" />
