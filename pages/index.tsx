@@ -6,11 +6,14 @@ const Main = styled.main`
         overflow: hidden;
     }
     article {
-        padding: 1rem;
+        overflow: hidden;
         background-color: white;
         height: 100%;
         width: 100%;
         border-radius: 3rem;
+        .meme {
+            width: 100%;
+        }
     }
 `
 export default function Home() {
@@ -21,7 +24,9 @@ export default function Home() {
             </Head>
             <div className="device device-iphone-14-pro">
                 <div className="device-frame">
-                    <article>2121</article>
+                    <article>
+                        <img src="/meme.JPG" className="meme" />
+                    </article>
                 </div>
                 <div className="device-stripe" />
                 <div className="device-header" />
