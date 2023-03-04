@@ -3,7 +3,6 @@ import styled from 'styled-components'
 import { useCallback, useEffect, useRef, useState } from 'react'
 const Main = styled.main`
     .device {
-        overflow: hidden;
         margin: auto;
     }
     article {
