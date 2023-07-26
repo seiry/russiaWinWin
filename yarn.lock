@@ -5121,6 +5121,28 @@ __metadata:
   languageName: node
   linkType: hard
 
+"russia-win-win@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "russia-win-win@workspace:."
+  dependencies:
+    "@types/node": 20.4.5
+    "@types/react": 18.2.17
+    "@types/react-dom": 18.2.7
+    eslint: 8.45.0
+    eslint-config-next: 13.4.12
+    eslint-config-prettier: ^8.8.0
+    eslint-plugin-prettier: ^5.0.0
+    next: ^13.4.12
+    normalize.css: ^8.0.1
+    prettier: ^3.0.0
+    react: 18.2.0
+    react-dom: 18.2.0
+    styled-components: ^6.0.5
+    stylis: ^4.3.0
+    typescript: 5.1.6
+  languageName: unknown
+  linkType: soft
+
 "safe-array-concat@npm:^1.0.0":
   version: 1.0.0
   resolution: "safe-array-concat@npm:1.0.0"
@@ -5793,28 +5815,6 @@ __metadata:
   checksum: b98327518f9a345c7cad5437afae4d2ae7d865f9779554baf2a200fdf4bac4969076b679b1115434bd6557376bdd37ca7583d0f9b8f8e302d7d4cc1e91b5f231
   languageName: node
   linkType: hard
-
-"uptime@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "uptime@workspace:."
-  dependencies:
-    "@types/node": 20.4.5
-    "@types/react": 18.2.17
-    "@types/react-dom": 18.2.7
-    eslint: 8.45.0
-    eslint-config-next: 13.4.12
-    eslint-config-prettier: ^8.8.0
-    eslint-plugin-prettier: ^5.0.0
-    next: ^13.4.12
-    normalize.css: ^8.0.1
-    prettier: ^3.0.0
-    react: 18.2.0
-    react-dom: 18.2.0
-    styled-components: ^6.0.5
-    stylis: ^4.3.0
-    typescript: 5.1.6
-  languageName: unknown
-  linkType: soft
 
 "uri-js@npm:^4.2.2":
   version: 4.4.1
