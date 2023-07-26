@@ -5,6 +5,7 @@ module.exports = {
         'prettier',
         'plugin:prettier/recommended',
     ],
+    plugins: ['prettier'],
     rules: {
         'react/self-closing-comp': [
             'error',
