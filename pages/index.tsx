@@ -1,10 +1,12 @@
 import Head from 'next/head'
-import styled from 'styled-components'
 import { useCallback, useEffect, useRef, useState } from 'react'
+import { styled } from 'styled-components'
+
 const Main = styled.main`
     .device {
         margin: auto;
     }
+
     article {
         .bar {
             width: 100%;
@@ -43,6 +45,7 @@ const Main = styled.main`
         }
     }
 `
+
 const startDate = new Date('2022-02-24T11:00:00') //+5h
 
 export default function Home() {
@@ -96,6 +99,7 @@ export default function Home() {
         // Request another animation frame
         timerRef.current = requestAnimationFrame(updateTimer)
     }, [])
+
     useEffect(() => {
         //frame
         timerRef.current = requestAnimationFrame(updateTimer)
