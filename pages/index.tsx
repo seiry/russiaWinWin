@@ -1,3 +1,5 @@
+/* eslint-disable jsx-a11y/alt-text */
+/* eslint-disable @next/next/no-img-element */
 import Head from 'next/head'
 import { useCallback, useEffect, useRef, useState } from 'react'
 import { styled } from 'styled-components'
@@ -133,7 +135,7 @@ export default function Home() {
             <div className="device device-iphone-14-pro ">
                 <div className="device-frame">
                     <article>
-                        <img className="bar" src="/bar.jpg" />
+                        <img className="bar" src="/bar.jpg" alt="bar" />
                         <div className="detail">
                             <h1>
                                 基辅攻陷：普京闪电战，一个半小时打趴乌克兰；绍伊古一战封神
