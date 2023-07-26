@@ -2,7 +2,8 @@
     "name": "uptime",
     "version": "0.1.0",
     "scripts": {
-        "dev": "NODE_OPTIONS='--inspect'   next dev ",
+        "dev": "next dev",
+        "inspect": "yarn run --inspect next",
         "build": "next build",
         "start": "next start",
         "lint": "next lint"
