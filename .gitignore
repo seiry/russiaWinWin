@@ -35,7 +35,7 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-.pnp.*
+# .pnp.*
 .yarn/*
 !.yarn/patches
 !.yarn/plugins
