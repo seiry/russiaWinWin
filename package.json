@@ -1,6 +1,6 @@
 {
-    "name": "uptime",
-    "version": "0.1.0",
+    "name": "russia-win-win",
+    "version": "1.0.0",
     "scripts": {
         "dev": "next dev",
         "inspect": "yarn run --inspect next",
