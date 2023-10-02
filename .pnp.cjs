@@ -29,7 +29,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",\
           "packageDependencies": [\
             ["@types/node", "npm:20.8.0"],\
-            ["@types/react", "npm:18.2.23"],\
+            ["@types/react", "npm:18.2.24"],\
             ["@types/react-dom", "npm:18.2.8"],\
             ["eslint", "npm:8.50.0"],\
             ["eslint-config-next", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:13.5.3"],\
@@ -3125,10 +3125,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:18.2.23", {\
-          "packageLocation": "./.yarn/cache/@types-react-npm-18.2.23-d0c6d9153f-efb9d1ed19.zip/node_modules/@types/react/",\
+        ["npm:18.2.24", {\
+          "packageLocation": "./.yarn/cache/@types-react-npm-18.2.24-331ca056d1-ea5d8204e7.zip/node_modules/@types/react/",\
           "packageDependencies": [\
-            ["@types/react", "npm:18.2.23"],\
+            ["@types/react", "npm:18.2.24"],\
             ["@types/prop-types", "npm:15.7.5"],\
             ["@types/scheduler", "npm:0.16.3"],\
             ["csstype", "npm:3.1.2"]\
@@ -6465,7 +6465,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@opentelemetry/api", null],\
             ["@swc/helpers", "npm:0.5.2"],\
             ["@types/opentelemetry__api", null],\
-            ["@types/react", "npm:18.2.23"],\
+            ["@types/react", "npm:18.2.24"],\
             ["@types/react-dom", "npm:18.2.8"],\
             ["@types/sass", null],\
             ["busboy", "npm:1.6.0"],\
@@ -6987,7 +6987,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/__virtual__/react-dom-virtual-555e164fbf/0/cache/react-dom-npm-18.2.0-dd675bca1c-7d323310be.zip/node_modules/react-dom/",\
           "packageDependencies": [\
             ["react-dom", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:18.2.0"],\
-            ["@types/react", "npm:18.2.23"],\
+            ["@types/react", "npm:18.2.24"],\
             ["loose-envify", "npm:1.4.0"],\
             ["react", "npm:18.2.0"],\
             ["scheduler", "npm:0.23.0"]\
@@ -7224,7 +7224,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["russia-win-win", "workspace:."],\
             ["@types/node", "npm:20.8.0"],\
-            ["@types/react", "npm:18.2.23"],\
+            ["@types/react", "npm:18.2.24"],\
             ["@types/react-dom", "npm:18.2.8"],\
             ["eslint", "npm:8.50.0"],\
             ["eslint-config-next", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:13.5.3"],\
@@ -7682,7 +7682,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@emotion/is-prop-valid", "npm:1.2.1"],\
             ["@emotion/unitless", "npm:0.8.1"],\
             ["@types/babel-plugin-styled-components", null],\
-            ["@types/react", "npm:18.2.23"],\
+            ["@types/react", "npm:18.2.24"],\
             ["@types/react-dom", "npm:18.2.8"],\
             ["@types/stylis", "npm:4.2.0"],\
             ["babel-plugin-styled-components", null],\
@@ -7721,7 +7721,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/core", null],\
             ["@types/babel-plugin-macros", null],\
             ["@types/babel__core", null],\
-            ["@types/react", "npm:18.2.23"],\
+            ["@types/react", "npm:18.2.24"],\
             ["babel-plugin-macros", null],\
             ["client-only", "npm:0.0.1"],\
             ["react", "npm:18.2.0"]\
