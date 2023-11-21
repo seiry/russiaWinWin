@@ -30,7 +30,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["@types/node", "npm:20.9.2"],\
             ["@types/react", "npm:18.2.37"],\
-            ["@types/react-dom", "npm:18.2.15"],\
+            ["@types/react-dom", "npm:18.2.16"],\
             ["eslint", "npm:8.54.0"],\
             ["eslint-config-next", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:13.5.6"],\
             ["eslint-config-prettier", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:9.0.0"],\
@@ -399,10 +399,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@types/react-dom", [\
-        ["npm:18.2.15", {\
-          "packageLocation": "./.yarn/cache/@types-react-dom-npm-18.2.15-2269cd02ff-8e9631600c.zip/node_modules/@types/react-dom/",\
+        ["npm:18.2.16", {\
+          "packageLocation": "./.yarn/cache/@types-react-dom-npm-18.2.16-169f2a2677-0d79f6e121.zip/node_modules/@types/react-dom/",\
           "packageDependencies": [\
-            ["@types/react-dom", "npm:18.2.15"],\
+            ["@types/react-dom", "npm:18.2.16"],\
             ["@types/react", "npm:18.2.16"]\
           ],\
           "linkType": "HARD"\
@@ -2897,7 +2897,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@swc/helpers", "npm:0.5.2"],\
             ["@types/opentelemetry__api", null],\
             ["@types/react", "npm:18.2.37"],\
-            ["@types/react-dom", "npm:18.2.15"],\
+            ["@types/react-dom", "npm:18.2.16"],\
             ["@types/sass", null],\
             ["busboy", "npm:1.6.0"],\
             ["caniuse-lite", "npm:1.0.30001517"],\
@@ -3458,7 +3458,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["russia-win-win", "workspace:."],\
             ["@types/node", "npm:20.9.2"],\
             ["@types/react", "npm:18.2.37"],\
-            ["@types/react-dom", "npm:18.2.15"],\
+            ["@types/react-dom", "npm:18.2.16"],\
             ["eslint", "npm:8.54.0"],\
             ["eslint-config-next", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:13.5.6"],\
             ["eslint-config-prettier", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:9.0.0"],\
@@ -3775,7 +3775,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@emotion/is-prop-valid", "npm:1.2.1"],\
             ["@emotion/unitless", "npm:0.8.1"],\
             ["@types/react", "npm:18.2.37"],\
-            ["@types/react-dom", "npm:18.2.15"],\
+            ["@types/react-dom", "npm:18.2.16"],\
             ["@types/stylis", "npm:4.2.0"],\
             ["css-to-react-native", "npm:3.2.0"],\
             ["csstype", "npm:3.1.2"],\
