@@ -28,7 +28,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {\
           "packageLocation": "./",\
           "packageDependencies": [\
-            ["@types/node", "npm:20.9.2"],\
+            ["@types/node", "npm:20.9.4"],\
             ["@types/react", "npm:18.2.38"],\
             ["@types/react-dom", "npm:18.2.16"],\
             ["eslint", "npm:8.54.0"],\
@@ -358,10 +358,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@types/node", [\
-        ["npm:20.9.2", {\
-          "packageLocation": "./.yarn/cache/@types-node-npm-20.9.2-ada70863a8-5bbb8fb224.zip/node_modules/@types/node/",\
+        ["npm:20.9.4", {\
+          "packageLocation": "./.yarn/cache/@types-node-npm-20.9.4-a4808c97df-619144cfee.zip/node_modules/@types/node/",\
           "packageDependencies": [\
-            ["@types/node", "npm:20.9.2"],\
+            ["@types/node", "npm:20.9.4"],\
             ["undici-types", "npm:5.26.5"]\
           ],\
           "linkType": "HARD"\
@@ -3456,7 +3456,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",\
           "packageDependencies": [\
             ["russia-win-win", "workspace:."],\
-            ["@types/node", "npm:20.9.2"],\
+            ["@types/node", "npm:20.9.4"],\
             ["@types/react", "npm:18.2.38"],\
             ["@types/react-dom", "npm:18.2.16"],\
             ["eslint", "npm:8.54.0"],\
