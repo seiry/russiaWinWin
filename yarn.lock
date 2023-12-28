@@ -2891,7 +2891,7 @@ __metadata:
     react: "npm:18.2.0"
     react-dom: "npm:18.2.0"
     styled-components: "npm:^6.1.4"
-    stylis: "npm:^4.3.0"
+    stylis: "npm:^4.3.1"
     typescript: "npm:5.3.3"
   languageName: unknown
   linkType: soft
@@ -3195,10 +3195,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"stylis@npm:4.3.0, stylis@npm:^4.3.0":
+"stylis@npm:4.3.0":
   version: 4.3.0
   resolution: "stylis@npm:4.3.0"
   checksum: 54eb1a13a9ec394a01a2e1a5ca8f856b96ecd8b85b8c04a24c0ff0aa8416798a6a1e9555f6a4345b6f088d03424f5a4376ea093d0ec73e419698415a3c8b59d0
+  languageName: node
+  linkType: hard
+
+"stylis@npm:^4.3.1":
+  version: 4.3.1
+  resolution: "stylis@npm:4.3.1"
+  checksum: 20b04044397c5c69e4b9f00b037159ba82b602c61d45f26d8def08577fd6ddc4b2853d86818548c1b404d29194a99b6495cca1733880afc845533ced843cb266
   languageName: node
   linkType: hard
 
