@@ -2890,7 +2890,7 @@ __metadata:
     prettier: "npm:^3.1.1"
     react: "npm:18.2.0"
     react-dom: "npm:18.2.0"
-    styled-components: "npm:^6.1.4"
+    styled-components: "npm:^6.1.6"
     stylis: "npm:^4.3.1"
     typescript: "npm:5.3.3"
   languageName: unknown
@@ -3159,9 +3159,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"styled-components@npm:^6.1.4":
-  version: 6.1.4
-  resolution: "styled-components@npm:6.1.4"
+"styled-components@npm:^6.1.6":
+  version: 6.1.6
+  resolution: "styled-components@npm:6.1.6"
   dependencies:
     "@emotion/is-prop-valid": "npm:1.2.1"
     "@emotion/unitless": "npm:0.8.0"
@@ -3170,12 +3170,12 @@ __metadata:
     csstype: "npm:3.1.2"
     postcss: "npm:8.4.31"
     shallowequal: "npm:1.1.0"
-    stylis: "npm:4.3.0"
+    stylis: "npm:4.3.1"
     tslib: "npm:2.5.0"
   peerDependencies:
     react: ">= 16.8.0"
     react-dom: ">= 16.8.0"
-  checksum: b00cff5c949497eb8bd35204b8fa8afe817e06813f6502b23b068a3b5689988a4b67918d08df78721db83897c84f6845368e24dcfa70fd68610b76e5caf930bc
+  checksum: d83a34317972ebf538f149762996af3f1465a445debc32ed7d1c520792b01118398a13b4db11382a9facc248bf101c79bc1a902478d1e8e29c220ba1d1c63939
   languageName: node
   linkType: hard
 
@@ -3195,14 +3195,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"stylis@npm:4.3.0":
-  version: 4.3.0
-  resolution: "stylis@npm:4.3.0"
-  checksum: 54eb1a13a9ec394a01a2e1a5ca8f856b96ecd8b85b8c04a24c0ff0aa8416798a6a1e9555f6a4345b6f088d03424f5a4376ea093d0ec73e419698415a3c8b59d0
-  languageName: node
-  linkType: hard
-
-"stylis@npm:^4.3.1":
+"stylis@npm:4.3.1, stylis@npm:^4.3.1":
   version: 4.3.1
   resolution: "stylis@npm:4.3.1"
   checksum: 20b04044397c5c69e4b9f00b037159ba82b602c61d45f26d8def08577fd6ddc4b2853d86818548c1b404d29194a99b6495cca1733880afc845533ced843cb266

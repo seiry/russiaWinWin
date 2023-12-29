@@ -38,7 +38,7 @@ const RAW_RUNTIME_STATE =
           ["prettier", "npm:3.1.1"],\
           ["react", "npm:18.2.0"],\
           ["react-dom", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:18.2.0"],\
-          ["styled-components", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:6.1.4"],\
+          ["styled-components", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:6.1.6"],\
           ["stylis", "npm:4.3.1"],\
           ["typescript", "patch:typescript@npm%3A5.3.3#optional!builtin<compat/typescript>::version=5.3.3&hash=e012d7"]\
         ],\
@@ -3467,7 +3467,7 @@ const RAW_RUNTIME_STATE =
           ["prettier", "npm:3.1.1"],\
           ["react", "npm:18.2.0"],\
           ["react-dom", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:18.2.0"],\
-          ["styled-components", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:6.1.4"],\
+          ["styled-components", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:6.1.6"],\
           ["stylis", "npm:4.3.1"],\
           ["typescript", "patch:typescript@npm%3A5.3.3#optional!builtin<compat/typescript>::version=5.3.3&hash=e012d7"]\
         ],\
@@ -3760,17 +3760,17 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["styled-components", [\
-      ["npm:6.1.4", {\
-        "packageLocation": "./.next/cache/yarn-cache/styled-components-npm-6.1.4-b7651b4da1-b00cff5c94.zip/node_modules/styled-components/",\
+      ["npm:6.1.6", {\
+        "packageLocation": "./.next/cache/yarn-cache/styled-components-npm-6.1.6-00d21430ec-d83a343179.zip/node_modules/styled-components/",\
         "packageDependencies": [\
-          ["styled-components", "npm:6.1.4"]\
+          ["styled-components", "npm:6.1.6"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:6.1.4", {\
-        "packageLocation": "./.yarn/__virtual__/styled-components-virtual-b64f907a1d/1/.next/cache/yarn-cache/styled-components-npm-6.1.4-b7651b4da1-b00cff5c94.zip/node_modules/styled-components/",\
+      ["virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:6.1.6", {\
+        "packageLocation": "./.yarn/__virtual__/styled-components-virtual-170c978f7e/1/.next/cache/yarn-cache/styled-components-npm-6.1.6-00d21430ec-d83a343179.zip/node_modules/styled-components/",\
         "packageDependencies": [\
-          ["styled-components", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:6.1.4"],\
+          ["styled-components", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:6.1.6"],\
           ["@emotion/is-prop-valid", "npm:1.2.1"],\
           ["@emotion/unitless", "npm:0.8.0"],\
           ["@types/react", "npm:18.2.46"],\
@@ -3782,7 +3782,7 @@ const RAW_RUNTIME_STATE =
           ["react", "npm:18.2.0"],\
           ["react-dom", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:18.2.0"],\
           ["shallowequal", "npm:1.1.0"],\
-          ["stylis", "npm:4.3.0"],\
+          ["stylis", "npm:4.3.1"],\
           ["tslib", "npm:2.5.0"]\
         ],\
         "packagePeers": [\
@@ -3826,13 +3826,6 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["stylis", [\
-      ["npm:4.3.0", {\
-        "packageLocation": "./.next/cache/yarn-cache/stylis-npm-4.3.0-cec5472bed-54eb1a13a9.zip/node_modules/stylis/",\
-        "packageDependencies": [\
-          ["stylis", "npm:4.3.0"]\
-        ],\
-        "linkType": "HARD"\
-      }],\
       ["npm:4.3.1", {\
         "packageLocation": "./.next/cache/yarn-cache/stylis-npm-4.3.1-df21265105-20b0404439.zip/node_modules/stylis/",\
         "packageDependencies": [\
