@@ -1,3 +1,5 @@
+import million from 'million/compiler'
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     swcMinify: true,
@@ -45,4 +47,10 @@ const nextConfig = {
     output: 'standalone',
 }
 
-module.exports = nextConfig
+const millionConfig = {
+    auto: {
+        rsc: true,
+    },
+}
+
+export default million.next(nextConfig, millionConfig)
