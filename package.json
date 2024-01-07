@@ -2,12 +2,40 @@
     "name": "russia-win-win",
     "version": "1.0.0",
     "scripts": {
-        "dev": "next dev",
-        "inspect": "yarn run --inspect next",
-        "build": "next build",
-        "start": "next start",
-        "lint": "next lint"
+        "dev": "wireit",
+        "build": "wireit",
+        "start": "wireit",
+        "lint": "wireit"
     },
+    "wireit": {
+        "dev": {
+            "command": "next dev",
+            "env": {
+                "NODE_ENV": "development"
+            }
+        },
+        "build": {
+            "command": "next build",
+            "env": {
+                "NODE_ENV": "production"
+            },
+            "cache": {
+                "folder": ".next/cache"
+            }
+        },
+        "start": {
+            "command": "next start",
+            "env": {
+                "NODE_ENV": "production"
+            }
+        },
+        "lint": {
+            "command": "next lint",
+            "env": {
+                "NODE_ENV": "development"
+            }
+        }
+    },    
     "dependencies": {
         "@types/node": "20.10.7",
         "@types/react": "18.2.47",
