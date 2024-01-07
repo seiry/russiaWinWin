@@ -26,5 +26,8 @@
         "stylis": "^4.3.1",
         "typescript": "5.3.3"
     },
-    "packageManager": "yarn@4.0.2"
+    "packageManager": "yarn@4.0.2",
+    "devDependencies": {
+        "wireit": "^0.14.1"
+    }
 }
