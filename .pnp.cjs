@@ -42,7 +42,7 @@ const RAW_RUNTIME_STATE =
           ["styled-components", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:6.1.8"],\
           ["stylis", "npm:4.3.1"],\
           ["typescript", "patch:typescript@npm%3A5.3.3#optional!builtin<compat/typescript>::version=5.3.3&hash=e012d7"],\
-          ["wireit", "npm:0.14.1"]\
+          ["wireit", "npm:0.14.3"]\
         ],\
         "linkType": "SOFT"\
       }]\
@@ -4703,7 +4703,7 @@ const RAW_RUNTIME_STATE =
           ["styled-components", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:6.1.8"],\
           ["stylis", "npm:4.3.1"],\
           ["typescript", "patch:typescript@npm%3A5.3.3#optional!builtin<compat/typescript>::version=5.3.3&hash=e012d7"],\
-          ["wireit", "npm:0.14.1"]\
+          ["wireit", "npm:0.14.3"]\
         ],\
         "linkType": "SOFT"\
       }]\
@@ -5609,10 +5609,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["wireit", [\
-      ["npm:0.14.1", {\
-        "packageLocation": "./.next/cache/yarn-cache/wireit-npm-0.14.1-0d087500ba-d38a1aa261.zip/node_modules/wireit/",\
+      ["npm:0.14.3", {\
+        "packageLocation": "./.next/cache/yarn-cache/wireit-npm-0.14.3-924e0c9317-0548a87b61.zip/node_modules/wireit/",\
         "packageDependencies": [\
-          ["wireit", "npm:0.14.1"],\
+          ["wireit", "npm:0.14.3"],\
           ["braces", "npm:3.0.2"],\
           ["chokidar", "npm:3.5.3"],\
           ["fast-glob", "npm:3.3.2"],\
