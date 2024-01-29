@@ -3983,7 +3983,7 @@ __metadata:
     styled-components: "npm:^6.1.8"
     stylis: "npm:^4.3.1"
     typescript: "npm:5.3.3"
-    wireit: "npm:^0.14.3"
+    wireit: "npm:^0.14.4"
   languageName: unknown
   linkType: soft
 
@@ -4769,9 +4769,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"wireit@npm:^0.14.3":
-  version: 0.14.3
-  resolution: "wireit@npm:0.14.3"
+"wireit@npm:^0.14.4":
+  version: 0.14.4
+  resolution: "wireit@npm:0.14.4"
   dependencies:
     braces: "npm:^3.0.2"
     chokidar: "npm:^3.5.3"
@@ -4780,7 +4780,7 @@ __metadata:
     proper-lockfile: "npm:^4.1.2"
   bin:
     wireit: bin/wireit.js
-  checksum: 0548a87b61a9585c72a2aedc466aacbd76b5fba117921b145485a5fb80d582056f572789e098a7c3962112e688ee9eb8994fa3e4dd4dfd9903e64c4a814439f2
+  checksum: da72722198320cc4322f678c1c1abffc3e8a2f4ef8ec85a81536e87b81731d4b547aee83598541a4d9587408d23cee2c36338e867782ac71ed6a034c96ebf082
   languageName: node
   linkType: hard
 
