@@ -26,7 +26,7 @@ const RAW_RUNTIME_STATE =
       [null, {\
         "packageLocation": "./",\
         "packageDependencies": [\
-          ["@types/node", "npm:20.11.13"],\
+          ["@types/node", "npm:20.11.15"],\
           ["@types/react", "npm:18.2.48"],\
           ["@types/react-dom", "npm:18.2.18"],\
           ["eslint", "npm:8.56.0"],\
@@ -793,10 +793,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@types/node", [\
-      ["npm:20.11.13", {\
-        "packageLocation": "./.next/cache/yarn-cache/@types-node-npm-20.11.13-8a5bd5c659-ffe143dd5e.zip/node_modules/@types/node/",\
+      ["npm:20.11.15", {\
+        "packageLocation": "./.next/cache/yarn-cache/@types-node-npm-20.11.15-f74b3472c3-ec670ab673.zip/node_modules/@types/node/",\
         "packageDependencies": [\
-          ["@types/node", "npm:20.11.13"],\
+          ["@types/node", "npm:20.11.15"],\
           ["undici-types", "npm:5.26.5"]\
         ],\
         "linkType": "HARD"\
@@ -4664,7 +4664,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./",\
         "packageDependencies": [\
           ["russia-win-win", "workspace:."],\
-          ["@types/node", "npm:20.11.13"],\
+          ["@types/node", "npm:20.11.15"],\
           ["@types/react", "npm:18.2.48"],\
           ["@types/react-dom", "npm:18.2.18"],\
           ["eslint", "npm:8.56.0"],\
