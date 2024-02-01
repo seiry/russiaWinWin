@@ -27,7 +27,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./",\
         "packageDependencies": [\
           ["@types/node", "npm:20.11.15"],\
-          ["@types/react", "npm:18.2.48"],\
+          ["@types/react", "npm:18.2.50"],\
           ["@types/react-dom", "npm:18.2.18"],\
           ["eslint", "npm:8.56.0"],\
           ["eslint-config-next", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:14.1.0"],\
@@ -822,10 +822,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:18.2.48", {\
-        "packageLocation": "./.next/cache/yarn-cache/@types-react-npm-18.2.48-3bda252d86-2e56ea6bd8.zip/node_modules/@types/react/",\
+      ["npm:18.2.50", {\
+        "packageLocation": "./.next/cache/yarn-cache/@types-react-npm-18.2.50-b2b4b83dc8-86ff44b88d.zip/node_modules/@types/react/",\
         "packageDependencies": [\
-          ["@types/react", "npm:18.2.48"],\
+          ["@types/react", "npm:18.2.50"],\
           ["@types/prop-types", "npm:15.7.5"],\
           ["@types/scheduler", "npm:0.16.3"],\
           ["csstype", "npm:3.1.2"]\
@@ -3975,7 +3975,7 @@ const RAW_RUNTIME_STATE =
           ["@opentelemetry/api", null],\
           ["@swc/helpers", "npm:0.5.2"],\
           ["@types/opentelemetry__api", null],\
-          ["@types/react", "npm:18.2.48"],\
+          ["@types/react", "npm:18.2.50"],\
           ["@types/react-dom", "npm:18.2.18"],\
           ["@types/sass", null],\
           ["busboy", "npm:1.6.0"],\
@@ -4484,7 +4484,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/__virtual__/react-dom-virtual-555e164fbf/1/.next/cache/yarn-cache/react-dom-npm-18.2.0-dd675bca1c-ca5e7762ec.zip/node_modules/react-dom/",\
         "packageDependencies": [\
           ["react-dom", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:18.2.0"],\
-          ["@types/react", "npm:18.2.48"],\
+          ["@types/react", "npm:18.2.50"],\
           ["loose-envify", "npm:1.4.0"],\
           ["react", "npm:18.2.0"],\
           ["scheduler", "npm:0.23.0"]\
@@ -4665,7 +4665,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["russia-win-win", "workspace:."],\
           ["@types/node", "npm:20.11.15"],\
-          ["@types/react", "npm:18.2.48"],\
+          ["@types/react", "npm:18.2.50"],\
           ["@types/react-dom", "npm:18.2.18"],\
           ["eslint", "npm:8.56.0"],\
           ["eslint-config-next", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:14.1.0"],\
@@ -5072,7 +5072,7 @@ const RAW_RUNTIME_STATE =
           ["styled-components", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:6.1.8"],\
           ["@emotion/is-prop-valid", "npm:1.2.1"],\
           ["@emotion/unitless", "npm:0.8.0"],\
-          ["@types/react", "npm:18.2.48"],\
+          ["@types/react", "npm:18.2.50"],\
           ["@types/react-dom", "npm:18.2.18"],\
           ["@types/stylis", "npm:4.2.0"],\
           ["css-to-react-native", "npm:3.2.0"],\
@@ -5108,7 +5108,7 @@ const RAW_RUNTIME_STATE =
           ["@babel/core", null],\
           ["@types/babel-plugin-macros", null],\
           ["@types/babel__core", null],\
-          ["@types/react", "npm:18.2.48"],\
+          ["@types/react", "npm:18.2.50"],\
           ["babel-plugin-macros", null],\
           ["client-only", "npm:0.0.1"],\
           ["react", "npm:18.2.0"]\
