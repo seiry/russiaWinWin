@@ -28,7 +28,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@types/node", "npm:20.12.7"],\
           ["@types/react", "npm:18.2.75"],\
-          ["@types/react-dom", "npm:18.2.24"],\
+          ["@types/react-dom", "npm:18.2.25"],\
           ["eslint", "npm:8.57.0"],\
           ["eslint-config-next", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:14.2.0"],\
           ["eslint-config-prettier", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:9.1.0"],\
@@ -843,10 +843,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@types/react-dom", [\
-      ["npm:18.2.24", {\
-        "packageLocation": "./.next/cache/yarn-cache/@types-react-dom-npm-18.2.24-46cb818e4c-bbd4005f2f.zip/node_modules/@types/react-dom/",\
+      ["npm:18.2.25", {\
+        "packageLocation": "./.next/cache/yarn-cache/@types-react-dom-npm-18.2.25-162e24188e-0e45856a2f.zip/node_modules/@types/react-dom/",\
         "packageDependencies": [\
-          ["@types/react-dom", "npm:18.2.24"],\
+          ["@types/react-dom", "npm:18.2.25"],\
           ["@types/react", "npm:18.2.16"]\
         ],\
         "linkType": "HARD"\
@@ -3988,7 +3988,7 @@ const RAW_RUNTIME_STATE =
           ["@types/opentelemetry__api", null],\
           ["@types/playwright__test", null],\
           ["@types/react", "npm:18.2.75"],\
-          ["@types/react-dom", "npm:18.2.24"],\
+          ["@types/react-dom", "npm:18.2.25"],\
           ["@types/sass", null],\
           ["busboy", "npm:1.6.0"],\
           ["caniuse-lite", "npm:1.0.30001579"],\
@@ -4680,7 +4680,7 @@ const RAW_RUNTIME_STATE =
           ["russia-win-win", "workspace:."],\
           ["@types/node", "npm:20.12.7"],\
           ["@types/react", "npm:18.2.75"],\
-          ["@types/react-dom", "npm:18.2.24"],\
+          ["@types/react-dom", "npm:18.2.25"],\
           ["eslint", "npm:8.57.0"],\
           ["eslint-config-next", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:14.2.0"],\
           ["eslint-config-prettier", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:9.1.0"],\
@@ -5087,7 +5087,7 @@ const RAW_RUNTIME_STATE =
           ["@emotion/is-prop-valid", "npm:1.2.1"],\
           ["@emotion/unitless", "npm:0.8.0"],\
           ["@types/react", "npm:18.2.75"],\
-          ["@types/react-dom", "npm:18.2.24"],\
+          ["@types/react-dom", "npm:18.2.25"],\
           ["@types/stylis", "npm:4.2.0"],\
           ["css-to-react-native", "npm:3.2.0"],\
           ["csstype", "npm:3.1.2"],\
