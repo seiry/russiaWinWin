@@ -39,7 +39,7 @@ const RAW_RUNTIME_STATE =
           ["prettier", "npm:3.2.5"],\
           ["react", "npm:18.2.0"],\
           ["react-dom", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:18.2.0"],\
-          ["styled-components", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:6.1.8"],\
+          ["styled-components", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:6.1.9"],\
           ["stylis", "npm:4.3.2"],\
           ["typescript", "patch:typescript@npm%3A5.4.5#optional!builtin<compat/typescript>::version=5.4.5&hash=e012d7"],\
           ["wireit", "npm:0.14.4"]\
@@ -414,10 +414,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@emotion/unitless", [\
-      ["npm:0.8.0", {\
-        "packageLocation": "./.next/cache/yarn-cache/@emotion-unitless-npm-0.8.0-aa125284fa-176141117e.zip/node_modules/@emotion/unitless/",\
+      ["npm:0.8.1", {\
+        "packageLocation": "./.next/cache/yarn-cache/@emotion-unitless-npm-0.8.1-bcf0a8f565-918f73c46a.zip/node_modules/@emotion/unitless/",\
         "packageDependencies": [\
-          ["@emotion/unitless", "npm:0.8.0"]\
+          ["@emotion/unitless", "npm:0.8.1"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -4691,7 +4691,7 @@ const RAW_RUNTIME_STATE =
           ["prettier", "npm:3.2.5"],\
           ["react", "npm:18.2.0"],\
           ["react-dom", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:18.2.0"],\
-          ["styled-components", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:6.1.8"],\
+          ["styled-components", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:6.1.9"],\
           ["stylis", "npm:4.3.2"],\
           ["typescript", "patch:typescript@npm%3A5.4.5#optional!builtin<compat/typescript>::version=5.4.5&hash=e012d7"],\
           ["wireit", "npm:0.14.4"]\
@@ -5073,19 +5073,19 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["styled-components", [\
-      ["npm:6.1.8", {\
-        "packageLocation": "./.next/cache/yarn-cache/styled-components-npm-6.1.8-ae8d84c2da-f8fd00556d.zip/node_modules/styled-components/",\
+      ["npm:6.1.9", {\
+        "packageLocation": "./.next/cache/yarn-cache/styled-components-npm-6.1.9-19926f87ea-e9da0c2267.zip/node_modules/styled-components/",\
         "packageDependencies": [\
-          ["styled-components", "npm:6.1.8"]\
+          ["styled-components", "npm:6.1.9"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:6.1.8", {\
-        "packageLocation": "./.yarn/__virtual__/styled-components-virtual-acd697bc61/1/.next/cache/yarn-cache/styled-components-npm-6.1.8-ae8d84c2da-f8fd00556d.zip/node_modules/styled-components/",\
+      ["virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:6.1.9", {\
+        "packageLocation": "./.yarn/__virtual__/styled-components-virtual-bccbae3f04/1/.next/cache/yarn-cache/styled-components-npm-6.1.9-19926f87ea-e9da0c2267.zip/node_modules/styled-components/",\
         "packageDependencies": [\
-          ["styled-components", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:6.1.8"],\
+          ["styled-components", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:6.1.9"],\
           ["@emotion/is-prop-valid", "npm:1.2.1"],\
-          ["@emotion/unitless", "npm:0.8.0"],\
+          ["@emotion/unitless", "npm:0.8.1"],\
           ["@types/react", "npm:18.2.79"],\
           ["@types/react-dom", "npm:18.2.25"],\
           ["@types/stylis", "npm:4.2.0"],\
