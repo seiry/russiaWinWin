@@ -1027,6 +1027,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"balanced-match@npm:^3.0.0":
+  version: 3.0.1
+  resolution: "balanced-match@npm:3.0.1"
+  checksum: 0abdcc7862a8295f10e1d8b743b41481996b9064e695da039787666a81d6940f70c0e9a21bca8c163fced6ebcc263d60a773075ffb03fb30343663f21e60fb79
+  languageName: node
+  linkType: hard
+
 "big-integer@npm:^1.6.44":
   version: 1.6.51
   resolution: "big-integer@npm:1.6.51"
@@ -1066,6 +1073,15 @@ __metadata:
   dependencies:
     balanced-match: "npm:^1.0.0"
   checksum: a61e7cd2e8a8505e9f0036b3b6108ba5e926b4b55089eeb5550cd04a471fe216c96d4fe7e4c7f995c728c554ae20ddfc4244cad10aef255e72b62930afd233d1
+  languageName: node
+  linkType: hard
+
+"brace-expansion@npm:^4.0.0":
+  version: 4.0.0
+  resolution: "brace-expansion@npm:4.0.0"
+  dependencies:
+    balanced-match: "npm:^3.0.0"
+  checksum: 6e0ed2ccbb56920d1a5b0028c986304e2eec5d3a048019d0098141a0d8b16bb7318841781a2f431a51be046afef92e3b79c9a9c54b16553ab4ee0f7965e0a789
   languageName: node
   linkType: hard
 
@@ -4021,7 +4037,7 @@ __metadata:
     styled-components: "npm:^6.1.11"
     stylis: "npm:^4.3.2"
     typescript: "npm:5.5.3"
-    wireit: "npm:^0.14.4"
+    wireit: "npm:^0.14.5"
   languageName: unknown
   linkType: soft
 
@@ -4807,18 +4823,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"wireit@npm:^0.14.4":
-  version: 0.14.4
-  resolution: "wireit@npm:0.14.4"
+"wireit@npm:^0.14.5":
+  version: 0.14.5
+  resolution: "wireit@npm:0.14.5"
   dependencies:
-    braces: "npm:^3.0.2"
+    brace-expansion: "npm:^4.0.0"
     chokidar: "npm:^3.5.3"
     fast-glob: "npm:^3.2.11"
     jsonc-parser: "npm:^3.0.0"
     proper-lockfile: "npm:^4.1.2"
   bin:
     wireit: bin/wireit.js
-  checksum: da72722198320cc4322f678c1c1abffc3e8a2f4ef8ec85a81536e87b81731d4b547aee83598541a4d9587408d23cee2c36338e867782ac71ed6a034c96ebf082
+  checksum: 08e4840e9fe24fe22dcf4153dbbccb26f1c2859deca4ee2fe23b9c5bc073780511443ce60ae2e2b120fdf33cf606d8080f88ee1f782fca7b539dfa234feb6abf
   languageName: node
   linkType: hard
 
