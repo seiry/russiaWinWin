@@ -3802,7 +3802,7 @@ const RAW_RUNTIME_STATE =
           ["@babel/plugin-syntax-typescript", "virtual:d234ac5974b7878f6cb238a6aea80f3292831db804ffbd1fd42f51f02216ecff36f0ec26d4f26342e26cb3a724eff6a79ac7c2bc4569839247ed70639e425a86#npm:7.23.3"],\
           ["@babel/types", "npm:7.23.6"],\
           ["kleur", "npm:4.1.5"],\
-          ["rollup", "npm:3.29.4"],\
+          ["rollup", "npm:3.29.5"],\
           ["unplugin", "npm:1.6.0"]\
         ],\
         "linkType": "HARD"\
@@ -4692,10 +4692,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["rollup", [\
-      ["npm:3.29.4", {\
-        "packageLocation": "./.next/cache/yarn-cache/rollup-npm-3.29.4-5e5e5f2087-9e39d54e23.zip/node_modules/rollup/",\
+      ["npm:3.29.5", {\
+        "packageLocation": "./.next/cache/yarn-cache/rollup-npm-3.29.5-4622371c71-5ce0e5f1d9.zip/node_modules/rollup/",\
         "packageDependencies": [\
-          ["rollup", "npm:3.29.4"],\
+          ["rollup", "npm:3.29.5"],\
           ["fsevents", "patch:fsevents@npm%3A2.3.3#optional!builtin<compat/fsevents>::version=2.3.3&hash=df0bf1"]\
         ],\
         "linkType": "HARD"\
