@@ -342,11 +342,11 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@babel/runtime", [\
-      ["npm:7.22.6", {\
-        "packageLocation": "./.next/cache/yarn-cache/@babel-runtime-npm-7.22.6-493f6b7ad0-1d2f56797f.zip/node_modules/@babel/runtime/",\
+      ["npm:7.26.10", {\
+        "packageLocation": "./.next/cache/yarn-cache/@babel-runtime-npm-7.26.10-d01a90d446-9d7ff8e96a.zip/node_modules/@babel/runtime/",\
         "packageDependencies": [\
-          ["@babel/runtime", "npm:7.22.6"],\
-          ["regenerator-runtime", "npm:0.13.11"]\
+          ["@babel/runtime", "npm:7.26.10"],\
+          ["regenerator-runtime", "npm:0.14.1"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2330,7 +2330,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/__virtual__/eslint-plugin-jsx-a11y-virtual-b5d9f6f3ef/1/.next/cache/yarn-cache/eslint-plugin-jsx-a11y-npm-6.7.1-84f912ba17-b7eb451304.zip/node_modules/eslint-plugin-jsx-a11y/",\
         "packageDependencies": [\
           ["eslint-plugin-jsx-a11y", "virtual:a8a08ef91c8e5bb4b13a08e199a87a647d9ef380795ecc6303b9f41609a5988e5220342fb08954a94b494778c4f7aa04f39645137ea4130e1f0c402e0c98b17b#npm:6.7.1"],\
-          ["@babel/runtime", "npm:7.22.6"],\
+          ["@babel/runtime", "npm:7.26.10"],\
           ["@types/eslint", null],\
           ["aria-query", "npm:5.3.0"],\
           ["array-includes", "npm:3.1.6"],\
@@ -4586,10 +4586,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["regenerator-runtime", [\
-      ["npm:0.13.11", {\
-        "packageLocation": "./.next/cache/yarn-cache/regenerator-runtime-npm-0.13.11-90bf536060-d493e9e118.zip/node_modules/regenerator-runtime/",\
+      ["npm:0.14.1", {\
+        "packageLocation": "./.next/cache/yarn-cache/regenerator-runtime-npm-0.14.1-a6c97c609a-5db3161abb.zip/node_modules/regenerator-runtime/",\
         "packageDependencies": [\
-          ["regenerator-runtime", "npm:0.13.11"]\
+          ["regenerator-runtime", "npm:0.14.1"]\
         ],\
         "linkType": "HARD"\
       }]\
