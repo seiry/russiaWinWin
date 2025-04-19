@@ -35,7 +35,7 @@
                 "NODE_ENV": "development"
             }
         }
-    },    
+    },
     "dependencies": {
         "@types/node": "22.14.0",
         "@types/react": "18.2.79",
