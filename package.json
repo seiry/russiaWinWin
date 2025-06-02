@@ -45,7 +45,7 @@
         "eslint-config-prettier": "^10.1.5",
         "eslint-plugin-prettier": "^5.4.1",
         "million": "^2.6.4",
-        "next": "^15.3.2",
+        "next": "^15.3.3",
         "normalize.css": "^8.0.1",
         "prettier": "^3.5.3",
         "react": "19.1.0",
