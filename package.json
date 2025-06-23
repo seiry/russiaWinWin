@@ -47,7 +47,7 @@
         "million": "^2.6.4",
         "next": "^15.3.4",
         "normalize.css": "^8.0.1",
-        "prettier": "^3.5.3",
+        "prettier": "^3.6.0",
         "react": "19.1.0",
         "react-dom": "19.1.0",
         "styled-components": "^6.1.19",
