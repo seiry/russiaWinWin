@@ -596,11 +596,11 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@eslint/plugin-kit", [\
-      ["npm:0.3.3", {\
-        "packageLocation": "./.next/cache/yarn-cache/@eslint-plugin-kit-npm-0.3.3-5c3dabf99f-8d5d6ce140.zip/node_modules/@eslint/plugin-kit/",\
+      ["npm:0.3.4", {\
+        "packageLocation": "./.next/cache/yarn-cache/@eslint-plugin-kit-npm-0.3.4-7fa154aaf6-9d22a43cbc.zip/node_modules/@eslint/plugin-kit/",\
         "packageDependencies": [\
           ["@eslint/core", "npm:0.15.1"],\
-          ["@eslint/plugin-kit", "npm:0.3.3"],\
+          ["@eslint/plugin-kit", "npm:0.3.4"],\
           ["levn", "npm:0.4.1"]\
         ],\
         "linkType": "HARD"\
@@ -2784,7 +2784,7 @@ const RAW_RUNTIME_STATE =
           ["@eslint/core", "npm:0.15.1"],\
           ["@eslint/eslintrc", "npm:3.3.1"],\
           ["@eslint/js", "npm:9.31.0"],\
-          ["@eslint/plugin-kit", "npm:0.3.3"],\
+          ["@eslint/plugin-kit", "npm:0.3.4"],\
           ["@humanfs/node", "npm:0.16.6"],\
           ["@humanwhocodes/module-importer", "npm:1.0.1"],\
           ["@humanwhocodes/retry", "npm:0.4.2"],\
