@@ -969,12 +969,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react@npm:19.1.8":
-  version: 19.1.8
-  resolution: "@types/react@npm:19.1.8"
+"@types/react@npm:19.2.2":
+  version: 19.2.2
+  resolution: "@types/react@npm:19.2.2"
   dependencies:
     csstype: "npm:^3.0.2"
-  checksum: 10/a3e6fe0f60f22828ef887f30993aa147b71532d7b1219dd00d246277eb7a9ca01ec533096237fa21ca1bccb3653373b4e8e59e5ae59f9c793058384bbc1f4d5c
+  checksum: 10/d6adf8fd4bb23a7e04da5700d96b15dc0f59653727a9c6e940c151d7232fa1dbbab98417d5ac830dcfb6cba3f206efbd4cd83647e6f9a688d7363a90e607f6bf
   languageName: node
   linkType: hard
 
@@ -4810,10 +4810,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react@npm:19.1.0":
-  version: 19.1.0
-  resolution: "react@npm:19.1.0"
-  checksum: 10/d0180689826fd9de87e839c365f6f361c561daea397d61d724687cae88f432a307d1c0f53a0ee95ddbe3352c10dac41d7ff1ad85530fb24951b27a39e5398db4
+"react@npm:19.2.0":
+  version: 19.2.0
+  resolution: "react@npm:19.2.0"
+  checksum: 10/e13bcdb8e994c3cfa922743cb75ca8deb60531bf02f584d2d8dab940a8132ce8a2e6ef16f8ed7f372b4072e7a7eeff589b2812dabbedfa73e6e46201dac8a9d0
   languageName: node
   linkType: hard
 
@@ -5021,7 +5021,7 @@ __metadata:
   resolution: "russia-win-win@workspace:."
   dependencies:
     "@types/node": "npm:22.15.30"
-    "@types/react": "npm:19.1.8"
+    "@types/react": "npm:19.2.2"
     "@types/react-dom": "npm:19.1.6"
     eslint: "npm:9.37.0"
     eslint-config-next: "npm:15.5.6"
@@ -5031,7 +5031,7 @@ __metadata:
     next: "npm:^15.5.5"
     normalize.css: "npm:^8.0.1"
     prettier: "npm:^3.6.2"
-    react: "npm:19.1.0"
+    react: "npm:19.2.0"
     react-dom: "npm:19.1.0"
     styled-components: "npm:^6.1.19"
     stylis: "npm:^4.3.6"
