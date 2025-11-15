@@ -571,7 +571,7 @@ const RAW_RUNTIME_STATE =
           ["globals", "npm:14.0.0"],\
           ["ignore", "npm:5.2.4"],\
           ["import-fresh", "npm:3.3.0"],\
-          ["js-yaml", "npm:4.1.0"],\
+          ["js-yaml", "npm:4.1.1"],\
           ["minimatch", "npm:3.1.2"],\
           ["strip-json-comments", "npm:3.1.1"]\
         ],\
@@ -4549,11 +4549,11 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["js-yaml", [\
-      ["npm:4.1.0", {\
-        "packageLocation": "./.next/cache/yarn-cache/js-yaml-npm-4.1.0-3606f32312-c138a34a3f.zip/node_modules/js-yaml/",\
+      ["npm:4.1.1", {\
+        "packageLocation": "./.next/cache/yarn-cache/js-yaml-npm-4.1.1-86ec786790-a52d0519f0.zip/node_modules/js-yaml/",\
         "packageDependencies": [\
           ["argparse", "npm:2.0.1"],\
-          ["js-yaml", "npm:4.1.0"]\
+          ["js-yaml", "npm:4.1.1"]\
         ],\
         "linkType": "HARD"\
       }]\
