@@ -38,7 +38,7 @@
     },
     "dependencies": {
         "@types/node": "22.15.30",
-        "@types/react": "19.1.8",
+        "@types/react": "19.2.2",
         "@types/react-dom": "19.1.6",
         "eslint": "9.37.0",
         "eslint-config-next": "15.5.6",
@@ -48,7 +48,7 @@
         "next": "^15.5.5",
         "normalize.css": "^8.0.1",
         "prettier": "^3.6.2",
-        "react": "19.1.0",
+        "react": "19.2.0",
         "react-dom": "19.1.0",
         "styled-components": "^6.1.19",
         "stylis": "^4.3.6",
