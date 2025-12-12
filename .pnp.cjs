@@ -36,7 +36,7 @@ const RAW_RUNTIME_STATE =
           ["eslint-config-prettier", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:10.1.8"],\
           ["eslint-plugin-prettier", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:5.5.4"],\
           ["million", "npm:2.6.4"],\
-          ["next", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:15.5.7"],\
+          ["next", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:15.5.9"],\
           ["normalize.css", "npm:8.0.1"],\
           ["prettier", "npm:3.6.2"],\
           ["react", "npm:19.1.0"],\
@@ -935,10 +935,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@next/env", [\
-      ["npm:15.5.7", {\
-        "packageLocation": "./.next/cache/yarn-cache/@next-env-npm-15.5.7-8f9e081dab-11f9716910.zip/node_modules/@next/env/",\
+      ["npm:15.5.9", {\
+        "packageLocation": "./.next/cache/yarn-cache/@next-env-npm-15.5.9-dcfb92230e-9623297013.zip/node_modules/@next/env/",\
         "packageDependencies": [\
-          ["@next/env", "npm:15.5.7"]\
+          ["@next/env", "npm:15.5.9"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -5021,17 +5021,17 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["next", [\
-      ["npm:15.5.7", {\
-        "packageLocation": "./.next/cache/yarn-cache/next-npm-15.5.7-45286182c4-bfac0cbac4.zip/node_modules/next/",\
+      ["npm:15.5.9", {\
+        "packageLocation": "./.next/cache/yarn-cache/next-npm-15.5.9-c16f969d8a-ac27b82de0.zip/node_modules/next/",\
         "packageDependencies": [\
-          ["next", "npm:15.5.7"]\
+          ["next", "npm:15.5.9"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:15.5.7", {\
-        "packageLocation": "./.yarn/__virtual__/next-virtual-5cf28707a0/1/.next/cache/yarn-cache/next-npm-15.5.7-45286182c4-bfac0cbac4.zip/node_modules/next/",\
+      ["virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:15.5.9", {\
+        "packageLocation": "./.yarn/__virtual__/next-virtual-8d99e92bb4/1/.next/cache/yarn-cache/next-npm-15.5.9-c16f969d8a-ac27b82de0.zip/node_modules/next/",\
         "packageDependencies": [\
-          ["@next/env", "npm:15.5.7"],\
+          ["@next/env", "npm:15.5.9"],\
           ["@next/swc-darwin-arm64", "npm:15.5.7"],\
           ["@next/swc-darwin-x64", "npm:15.5.7"],\
           ["@next/swc-linux-arm64-gnu", "npm:15.5.7"],\
@@ -5051,13 +5051,13 @@ const RAW_RUNTIME_STATE =
           ["@types/sass", null],\
           ["babel-plugin-react-compiler", null],\
           ["caniuse-lite", "npm:1.0.30001579"],\
-          ["next", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:15.5.7"],\
+          ["next", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:15.5.9"],\
           ["postcss", "npm:8.4.31"],\
           ["react", "npm:19.1.0"],\
           ["react-dom", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:19.1.0"],\
           ["sass", null],\
           ["sharp", "npm:0.34.3"],\
-          ["styled-jsx", "virtual:5cf28707a0d7022634534a83258599c3742d390579c4a3726a0bbc4cdea32c0919331a437b6054aed7bf7a704a67310b610a8f55ecab05a475010200944fd6d7#npm:5.1.6"]\
+          ["styled-jsx", "virtual:8d99e92bb45e119b30ce765ce6c00f7de243c815670c72dedfe3f73d1e2ded455f342f8511ccaaf1724a51204dc332dd4d34edff0f7724c06abc277d09649b82#npm:5.1.6"]\
         ],\
         "packagePeers": [\
           "@opentelemetry/api",\
@@ -5800,7 +5800,7 @@ const RAW_RUNTIME_STATE =
           ["eslint-config-prettier", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:10.1.8"],\
           ["eslint-plugin-prettier", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:5.5.4"],\
           ["million", "npm:2.6.4"],\
-          ["next", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:15.5.7"],\
+          ["next", "virtual:e034fe5d8f1a42677026120f9b1be0d62b2cf0a8f10c9fa7a202163182129a0743ee5602ad640331a9adb0de03a74d457a06be70331b985a6637a8ae485bf3b2#npm:15.5.9"],\
           ["normalize.css", "npm:8.0.1"],\
           ["prettier", "npm:3.6.2"],\
           ["react", "npm:19.1.0"],\
@@ -6462,8 +6462,8 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:5cf28707a0d7022634534a83258599c3742d390579c4a3726a0bbc4cdea32c0919331a437b6054aed7bf7a704a67310b610a8f55ecab05a475010200944fd6d7#npm:5.1.6", {\
-        "packageLocation": "./.yarn/__virtual__/styled-jsx-virtual-741241006e/1/.next/cache/yarn-cache/styled-jsx-npm-5.1.6-623e2e7d45-ba01200e82.zip/node_modules/styled-jsx/",\
+      ["virtual:8d99e92bb45e119b30ce765ce6c00f7de243c815670c72dedfe3f73d1e2ded455f342f8511ccaaf1724a51204dc332dd4d34edff0f7724c06abc277d09649b82#npm:5.1.6", {\
+        "packageLocation": "./.yarn/__virtual__/styled-jsx-virtual-3948fac67f/1/.next/cache/yarn-cache/styled-jsx-npm-5.1.6-623e2e7d45-ba01200e82.zip/node_modules/styled-jsx/",\
         "packageDependencies": [\
           ["@babel/core", null],\
           ["@types/babel-plugin-macros", null],\
@@ -6472,7 +6472,7 @@ const RAW_RUNTIME_STATE =
           ["babel-plugin-macros", null],\
           ["client-only", "npm:0.0.1"],\
           ["react", "npm:19.1.0"],\
-          ["styled-jsx", "virtual:5cf28707a0d7022634534a83258599c3742d390579c4a3726a0bbc4cdea32c0919331a437b6054aed7bf7a704a67310b610a8f55ecab05a475010200944fd6d7#npm:5.1.6"]\
+          ["styled-jsx", "virtual:8d99e92bb45e119b30ce765ce6c00f7de243c815670c72dedfe3f73d1e2ded455f342f8511ccaaf1724a51204dc332dd4d34edff0f7724c06abc277d09649b82#npm:5.1.6"]\
         ],\
         "packagePeers": [\
           "@babel/core",\
